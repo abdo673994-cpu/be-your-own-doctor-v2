@@ -1,0 +1,6 @@
+{
+  "name": "Your Own Doctor",
+  "description": "Smartwatch Bioscience & Personal Telemetry companion that connects with your smart watch to monitor continuous vitals, autonomic balance, and physiological health diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
